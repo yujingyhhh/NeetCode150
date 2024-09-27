@@ -1,2 +1,2 @@
 # NeetCode150
-Practice
+Neetcode 150 by Python and Java
